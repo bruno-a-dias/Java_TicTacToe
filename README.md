@@ -27,7 +27,7 @@ Java_TicTacToe/
 │ ├── click.wav
 │ └── win.wav
 
-text
+
 
 ## 🚀 Como executar
 
@@ -37,7 +37,6 @@ Abra o terminal na pasta `Java_TicTacToe` e execute:
 
 javac -d out -sourcepath src/main/java src/main/java/TicTacToeGame.java src/main/java/TicTacToeGUI.java
 
-text
 
 ### 2. Execute o jogo
 
@@ -45,13 +44,11 @@ No **Windows**:
 
 java -cp out;resources TicTacToeGUI
 
-text
 
 No **Linux/Mac**:
 
 java -cp out:resources TicTacToeGUI
 
-text
 
 > **Atenção:** Os arquivos `click.wav` e `win.wav` devem estar na pasta `resources` na raiz do projeto.
 
