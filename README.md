@@ -19,12 +19,19 @@ Um projeto completo de Jogo da Velha (Tic Tac Toe) em Java com interface gráfic
 
 Java_TicTacToe/
 │
+
 ├── src/
+
 │ └── main/
+
 │ └── java/
+
 │ ├── TicTacToeGUI.java
+
 │ └── TicTacToeGame.java
+
 │ ├── click.wav
+
 │ └── win.wav
 
 
